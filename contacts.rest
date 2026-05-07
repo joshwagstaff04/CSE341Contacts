@@ -1,0 +1,17 @@
+# Get all contacts
+GET http://localhost:3000/contacts
+
+###
+
+# Get single contact by ID (replace with a real _id from your DB)
+GET http://localhost:3000/contacts/69fb7e1f1817f92fb29d4341
+
+###
+
+# Test live on Render - get all
+GET https://CSE341Contacts.onrender.com/contacts
+
+###
+
+# Test live on Render - get single contact
+GET https://CSE341Contacts.onrender.com/contacts/646e2d7f6ec7bab020c886a0
