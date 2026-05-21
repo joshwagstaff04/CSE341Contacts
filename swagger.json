@@ -5,10 +5,10 @@
     "description": "API for managing contacts",
     "version": "1.0.0"
   },
-  "host": "cse341contacts.onrender.com",
+  "host": "cse341contacts-vlcy.onrender.com",
   "basePath": "/",
   "schemes": [
-    "http"
+    "https"
   ],
   "paths": {
     "/contacts/": {

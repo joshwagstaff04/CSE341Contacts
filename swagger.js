@@ -5,7 +5,8 @@ const doc = {
     title: 'Contacts API',
     description: 'API for managing contacts'
   },
-  host: 'cse341contacts.onrender.com',
+  host: 'cse341contacts-vlcy.onrender.com',
+  schemes: ['https'],
   definitions: {
     Contact: {
       firstName: 'John',
